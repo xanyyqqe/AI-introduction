@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xanyyqqe/AI-introduction/blob/main/lab1/notebooks/lab1.ipynb)
+
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Соколов Ярослав Александрович, группа 251-952
